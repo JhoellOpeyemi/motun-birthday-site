@@ -8,7 +8,7 @@ const GlobalStyles = createGlobalStyle`
     }
     body {
       width: 90%;
-      max-width: 1200px;
+      max-width: 900px;
       margin: 0 auto;
       background-color: #fdfdfd;
       color: #222;
